@@ -8,7 +8,7 @@
   
   <h2 align="">:bar_chart: &nbsp;Github stats </h2>
   <a href="https://github.com/rahulsrivastava1">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsrivastava1&show_icons=true&theme=contrast_height=27" alt="Srivastava's GitHub stats"/>
+ <img align="" src="https://github-readme-stats.vercel.app/api?username=rahulsrivastava1&show_icons=true&theme=contrast_height=27" alt="Srivastava's GitHub stats"/>
 </a>
   &nbsp;
   &nbsp;

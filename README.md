@@ -8,12 +8,12 @@
   
   <h2 align="">:bar_chart: &nbsp;Github stats </h2>
   <a href="https://github.com/rahulsrivastava1">
- <img align="" src="https://github-readme-stats.vercel.app/api?username=rahulsrivastava1&show_icons=true&theme=contrast_height=27" alt="Srivastava's GitHub stats"/>
+ <img align="" src="https://github-readme-stats.vercel.app/api?username=rahulsrivastava1&show_icons=true&theme=contrast_height=27" width="450" alt="Srivastava's GitHub stats"/>
 </a>
   &nbsp;
   &nbsp;
   <br/>
-  <p align=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsrivastava1&theme=contrast" alt="Rahul-Srivastava" /></p>
+  <p align=""><img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsrivastava1&theme=contrast" alt="Rahul-Srivastava" /></p>
 
   <h3> 🛠 &nbsp; Tech Stack</h3>
 

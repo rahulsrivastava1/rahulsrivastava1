@@ -43,7 +43,7 @@ IT Student at <a href="https://www.nsec.ac.in/">Netaji Subhash Engineering Colle
 [![](https://img.shields.io/badge/HackerRank-srivastavar433-red)](https://www.hackerrank.com/srivastavar433)
 [![](https://img.shields.io/badge/Codechef-rahulsrivasta1-yellow)](https://www.codechef.com/users/rahulsrivasta1)
 [![](https://img.shields.io/badge/GeeksForGeeks-srivastavar433-yellow)](https://auth.geeksforgeeks.org/user/srivastavar433/profile)
-[![](https://img.shields.io/badge/Codeforces-rahul_srivastava-green)](https://codeforces.com/profile/rahul_srivastava)
+
 
 <h3> 🤝🏻 Connect with Me </h3>
   

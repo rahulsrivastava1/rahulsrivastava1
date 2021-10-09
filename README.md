@@ -20,14 +20,16 @@ IT Student at <a href="https://www.nsec.ac.in/">Netaji Subhash Engineering Colle
   <h3> 🛠 &nbsp; Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![React JS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=React)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C](https://img.shields.io/badge/-C-333333?style=flag&logo=C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flag&logo=Java)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![JS](https://img.shields.io/badge/-JS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 -  🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
@@ -42,7 +44,8 @@ IT Student at <a href="https://www.nsec.ac.in/">Netaji Subhash Engineering Colle
 
 [![](https://img.shields.io/badge/HackerRank-srivastavar433-red)](https://www.hackerrank.com/srivastavar433)
 [![](https://img.shields.io/badge/Codechef-rahulsrivasta1-yellow)](https://www.codechef.com/users/rahulsrivasta1)
-[![](https://img.shields.io/badge/GeeksForGeeks-srivastavar433-yellow)](https://auth.geeksforgeeks.org/user/srivastavar433/profile)
+[![](https://img.shields.io/badge/GeeksForGeeks-srivastavar433-purple)](https://auth.geeksforgeeks.org/user/srivastavar433/profile)
+[![](https://img.shields.io/badge/LeetCode-rahulsrivastava1-blue)](https://leetcode.com/rahulsrivastava1/)
 
 
 <h3> 🤝🏻 Connect with Me </h3>

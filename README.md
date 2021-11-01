@@ -3,7 +3,7 @@
 <img width="350" align="right" alt="developer" src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif"/>
 
 
-<h3><b>Rahul Srivastava</b><br/><br/>
+<h3><b>Rahul Srivastava (Frontend Developer) </b><br/><br/>
 IT Student at <a href="https://www.nsec.ac.in/">Netaji Subhash Engineering College,Kolkata</a></h3>
 
 <a href="https://rahulsrivastava1.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://rahulsrivastava1.github.io/-red?style=flat&logo=google-chrome">
@@ -22,6 +22,7 @@ IT Student at <a href="https://www.nsec.ac.in/">Netaji Subhash Engineering Colle
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![React JS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=React)
+  ![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=React)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C](https://img.shields.io/badge/-C-333333?style=flag&logo=C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flag&logo=Java)

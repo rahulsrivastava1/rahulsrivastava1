@@ -9,7 +9,7 @@ IT Student at <a href="https://www.nsec.ac.in/">Netaji Subhash Engineering Colle
 <a href="https://rahulsrivastava1.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://rahulsrivastava1.github.io/-red?style=flat&logo=google-chrome">
   
   <h2 align="">:bar_chart: &nbsp;Github stats </h2>
-  <a href="https://github.com/rahulsrivastava1">
+  <a href="https://rahulsrivastava-portfolio.netlify.app/">
  <img align="" src="https://github-readme-stats.vercel.app/api?username=rahulsrivastava1&show_icons=true&theme=contrast_height=27" width="450" alt="Srivastava's GitHub stats"/>
 </a>
   &nbsp;

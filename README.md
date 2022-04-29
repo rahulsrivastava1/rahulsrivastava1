@@ -6,7 +6,7 @@
 <h3><b>Rahul Srivastava (Full-Stack Developer) </b><br/><br/>
 IT Student at <a href="https://www.nsec.ac.in/">Netaji Subhash Engineering College,Kolkata</a></h3>
 
-<a href="https://rahulsrivastava1.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://rahulsrivastava1.github.io/-red?style=flat&logo=google-chrome">
+<a href="https://rahulsrivastava-portfolio.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://rahulsrivastava-portfolio.netlify.app/-red?style=flat&logo=google-chrome">
   
   <h2 align="">:bar_chart: &nbsp;Github stats </h2>
   <a href="https://rahulsrivastava-portfolio.netlify.app/">

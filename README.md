@@ -3,7 +3,7 @@
 <img width="350" align="right" alt="developer" src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif"/>
 
 
-<h3><b>Rahul Srivastava (Frontend Developer) </b><br/><br/>
+<h3><b>Rahul Srivastava (Full-Stack Developer) </b><br/><br/>
 IT Student at <a href="https://www.nsec.ac.in/">Netaji Subhash Engineering College,Kolkata</a></h3>
 
 <a href="https://rahulsrivastava1.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://rahulsrivastava1.github.io/-red?style=flat&logo=google-chrome">

@@ -5,6 +5,7 @@
 
 <h3><b>Rahul Srivastava (Full-Stack Developer) </b><br/><br/>
 IT Student at <a href="https://www.nsec.ac.in/">Netaji Subhash Engineering College,Kolkata</a></h3>
+Junior Associate in <a href="https:https://celebaltech.com/">Celebal Technology</a><h3/>
 
 <a href="http:/rahulsrivastava-portfolio.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.rahul.sr-red?style=flat&logo=google-chrome">
   
@@ -21,16 +22,14 @@ IT Student at <a href="https://www.nsec.ac.in/">Netaji Subhash Engineering Colle
 
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![React JS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=React)
-  ![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=React)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C](https://img.shields.io/badge/-C-333333?style=flag&logo=C)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flag&logo=Java)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![JS](https://img.shields.io/badge/-JS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![React JS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=React)
+  ![MERN](https://img.shields.io/badge/-MERN-333333?style=flat&logo=mern)
 -  🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](http://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -41,6 +40,7 @@ IT Student at <a href="https://www.nsec.ac.in/">Netaji Subhash Engineering Colle
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   
   <h3> 💻 &nbsp;Coding profiles </h3>
 

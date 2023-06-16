@@ -3,7 +3,7 @@
 <img width="350" align="right" alt="developer" src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif"/>
 
 
-<h3><b>Rahul Srivastava (Frontend Developer) </b><br/><br/>
+<h3><b>Rahul Srivastava (Frontend Developer - On a way to Full Stack) </b><br/><br/>
 Ex IT Student at <a href="https://www.nsec.ac.in/">Netaji Subhash Engineering College,Kolkata</a></h3>
 Associate in <a href="https:https://celebaltech.com/">Celebal Technology</a><h3/>
 

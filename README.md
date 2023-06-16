@@ -7,7 +7,7 @@
 Ex IT Student at <a href="https://www.nsec.ac.in/">Netaji Subhash Engineering College,Kolkata</a></h3>
 Associate in <a href="https:https://celebaltech.com/">Celebal Technology</a><h3/>
 
-<a href="http:/rahulsrivastava-portfolio.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.rahul.sr-red?style=flat&logo=google-chrome">
+<a href="https://rahulsrivastava-dev.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.rahul.sr-red?style=flat&logo=google-chrome">
   
   <h2 align="">:bar_chart: &nbsp;Github stats </h2>
   <a href="https://github.com/rahulsrivastava1">

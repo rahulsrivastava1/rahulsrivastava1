@@ -3,9 +3,9 @@
 <img width="350" align="right" alt="developer" src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif"/>
 
 
-<h3><b>Rahul Srivastava (Full Stack Developer - MERN) </b><br/><br/>
+<h3><b>Rahul Srivastava (Full Stack Developer) </b><br/><br/>
 Ex IT Student at <a href="https://www.nsec.ac.in/">Netaji Subhash Engineering College,Kolkata</a></h3>
-Ex-Associate in <a href="https:https://celebaltech.com/">Celebal Technology</a><h3/>
+Software Engineer in <a href="https://nathabit.in/">Nat Habit</a><h3/>
 
 <a href="https://rahulsrivastava-dev.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.rahul.sr-red?style=flat&logo=google-chrome">
   

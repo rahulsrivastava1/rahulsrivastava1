@@ -1,61 +1,108 @@
-### <h1>Hey Developer! 👋 Welcome to my profile <img src="https://pa1.narvii.com/6589/11c263db9cfa152143ba291fb4ad95491b2248ab_hq.gif" width="50"> </h1>
+# Hi, I'm Rahul Srivastava 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4JdXT/giphy.gif" width="28">
+### Full Stack Developer & Software Engineer at [Nat Habit](https://nathabit.in/)
 
-<img width="350" align="right" alt="developer" src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif"/>
+<p align="left">
+  <a href="https://rahulsrivastava-dev.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/rahul-srivastava-882180191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:srivastavar433@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
+<img width="360" align="right" alt="Coding Workflow" src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif"/>
 
-<h3><b>Rahul Srivastava (Full Stack Developer) </b><br/><br/>
-Software Engineer in <a href="https://nathabit.in/">Nat Habit</a><h3/>
+- 💻 &nbsp; **Core Expertise:** Building robust, scalable full-stack applications.
+- 🚀 &nbsp; **Current Focus:** Performance optimization and seamless backend architecture.
+- 🎯 &nbsp; **Passion:** Turning complex problems into elegant, maintainable code.
 
-<a href="https://rahulsrivastava-dev.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.rahul.sr-red?style=flat&logo=google-chrome">
-  
-  <h2 align="">:bar_chart: &nbsp;Github stats </h2>
-  <a href="https://github.com/rahulsrivastava1">
- <img align="" src="https://github-readme-stats.vercel.app/api?username=rahulsrivastava1&show_icons=true&theme=contrast_height=27" width="450" alt="Srivastava's GitHub stats"/>
-</a>
-  &nbsp;
-  &nbsp;
-  <br/>
-  <p align=""><img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsrivastava1&theme=contrast" alt="Rahul-Srivastava" /></p>
+---
 
-  <h3> 🛠 &nbsp; Tech Stack</h3>
+### 🛠️ Ecosystem & Tech Stack
 
-- 💻 &nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C](https://img.shields.io/badge/-C-333333?style=flag&logo=C)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![JS](https://img.shields.io/badge/-JS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![React JS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=React)
-  ![MERN](https://img.shields.io/badge/-MERN-333333?style=flat&logo=mern)
--  🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](http://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-  ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  
-  <h3> 💻 &nbsp;Coding profiles </h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+  </a>
 
-[![](https://img.shields.io/badge/HackerRank-srivastavar433-red)](https://www.hackerrank.com/srivastavar433)
-[![](https://img.shields.io/badge/Codechef-rahulsrivasta1-yellow)](https://www.codechef.com/users/rahulsrivasta1)
-[![](https://img.shields.io/badge/GeeksForGeeks-srivastavar433-purple)](https://auth.geeksforgeeks.org/user/srivastavar433/profile)
-[![](https://img.shields.io/badge/LeetCode-rahulsrivastava1-blue)](https://leetcode.com/rahulsrivastava1/)
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="45" height="45"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
+  </a>
 
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
+  </a>
 
-<h3> 🤝🏻 Connect with Me </h3>
-  
-<a href="https://www.linkedin.com/in/rahul-srivastava-882180191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srivastavar433@gmail.com)](mailto:srivastavar433@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://https://www.facebook.com/rahul.raja.srivastava)](https://www.facebook.com/rahul.raja.srivastava)
-  
- Show Some love ❤️
- Star Repository 🌟
-  
-  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+  </a>
+</p>
+
+---
+
+### 💻 Competitive Programming & Metrics
+
+<p align="left">
+  <a href="https://leetcode.com/rahulsrivastava1/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/srivastavar433/profile" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://www.codechef.com/users/rahulsrivasta1" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://www.hackerrank.com/srivastavar433" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Metrics
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahulsrivastava1&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" width="100%" alt="GitHub Stats"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsrivastava1&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🤝 Connect & Socials
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rahul-srivastava-882180191/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:srivastavar433@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.facebook.com/rahul.raja.srivastava" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+<p align="center">
+  ✨ Drop a <b>Star</b> if you find my repositories interesting! ✨
+</p>
